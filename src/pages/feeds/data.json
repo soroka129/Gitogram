@@ -1,0 +1,17 @@
+[
+    {
+        "id": "0",
+        "avatar": "https://picsum.photo/300/500",
+        "username": "One"
+    },
+    {
+        "id": "1",
+        "avatar": "https://picsum.photo/300/500",
+        "username": "Two"
+    },
+    {
+        "id": "2",
+        "avatar": "https://picsum.photo/300/500",
+        "username": "Three"
+    }
+]
